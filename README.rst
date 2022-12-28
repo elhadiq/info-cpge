@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
+Site d'informatique pour cpge maroc
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Ce site contient les cours d'informatique sup et spé au maroc.
 
-Read the tutorial here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+
