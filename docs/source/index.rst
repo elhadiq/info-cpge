@@ -1,10 +1,5 @@
 Welcome to Lumache's documentation!
 ===================================
-<<<<<<< Updated upstream
-Zouhair  
-Lumache has its documentation hosted on Read the Docs.
-# okay
-=======
 **Zouhair**
 #this is the best way to start okay
 >>>>>>> Stashed changes
