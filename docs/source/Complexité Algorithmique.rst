@@ -3,10 +3,10 @@ Usage
 
 .. _installation:
 
-Installation
+Introduction
 ------------
 
-To use Lumache, first install it using pip:
+Pour commancer la complexité algorithmique nous devons faire un petit rappel des nottions suivantes
 
 .. code-block:: console
 
