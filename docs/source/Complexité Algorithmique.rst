@@ -3,10 +3,10 @@ Usage
 
 .. _installation:
 
-Installation
+Introduction
 ------------
 
-To use Lumache, first install it using pip:
+Pour commancer la complexité algorithmique nous devons faire un petit rappel des nottions suivantes
 
 .. code-block:: console
 
@@ -14,7 +14,7 @@ To use Lumache, first install it using pip:
 
 Creating recipes
 ----------------
-
+**Zouhair**
 To retrieve a list of random ingredients,
 you can use the ``lumache.get_random_ingredients()`` function:
 
